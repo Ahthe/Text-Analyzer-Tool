@@ -1,0 +1,22 @@
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\bin\Debug\PA2.exe.config
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\bin\Debug\PA2.exe
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\bin\Debug\PA2.pdb
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\obj\Debug\PA2.csproj.AssemblyReference.cache
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\obj\Debug\PA2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\obj\Debug\PA2.frmMain.resources
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\obj\Debug\PA2.Properties.Resources.resources
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\obj\Debug\PA2.csproj.GenerateResource.cache
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\obj\Debug\PA2.csproj.CoreCompileInputs.cache
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\obj\Debug\PA2.exe
+C:\Users\Ahthesham Ali\Documents\UMU COURSES\COMPUTER SCIENCE\CSC 224\LABS\PA2\obj\Debug\PA2.pdb
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\bin\Debug\PA2.exe.config
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\bin\Debug\PA2.exe
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\bin\Debug\PA2.pdb
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\obj\Debug\PA2.csproj.AssemblyReference.cache
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\obj\Debug\PA2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\obj\Debug\PA2.frmMain.resources
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\obj\Debug\PA2.Properties.Resources.resources
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\obj\Debug\PA2.csproj.GenerateResource.cache
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\obj\Debug\PA2.csproj.CoreCompileInputs.cache
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\obj\Debug\PA2.exe
+C:\Users\Ahthesham Ali\Documents\GitHub\PA2\obj\Debug\PA2.pdb
